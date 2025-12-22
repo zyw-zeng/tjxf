@@ -1,0 +1,19 @@
+{
+  "name": "lke-component-vue3-demo",
+  "version": "1.0.0",
+  "description": "Vue3 project with lke-component-vue3",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lke-component-vue3": "^1.0.11",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
